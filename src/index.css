@@ -17,20 +17,20 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    /* Vibrant yellow as primary - represents optimism and energy */
-    --primary: 45 97% 54%;
+    /* Golden orange as primary - represents warmth and energy */
+    --primary: 35 76% 60%;
     --primary-foreground: 0 0% 100%;
-    --primary-glow: 52 100% 70%;
+    --primary-glow: 42 80% 70%;
 
     /* Deep blue as secondary - trust and stability */
-    --secondary: 220 91% 54%;
+    --secondary: 211 85% 35%;
     --secondary-foreground: 0 0% 100%;
 
     --muted: 210 40% 96.1%;
     --muted-foreground: 215.4 16.3% 46.9%;
 
     /* Light blue accent for highlights */
-    --accent: 200 100% 70%;
+    --accent: 211 85% 55%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84.2% 60.2%;
@@ -38,21 +38,21 @@ All colors MUST be HSL.
 
     --border: 214.3 31.8% 91.4%;
     --input: 214.3 31.8% 91.4%;
-    --ring: 45 97% 54%;
+    --ring: 35 76% 60%;
 
     --radius: 1rem;
 
     /* Beautiful gradients for empowering design */
-    --gradient-primary: linear-gradient(135deg, hsl(45 97% 54%), hsl(52 100% 70%));
-    --gradient-secondary: linear-gradient(135deg, hsl(220 91% 54%), hsl(200 100% 70%));
-    --gradient-hero: linear-gradient(135deg, hsl(45 97% 54%) 0%, hsl(52 100% 70%) 50%, hsl(220 91% 54%) 100%);
+    --gradient-primary: linear-gradient(135deg, hsl(35 76% 60%), hsl(42 80% 70%));
+    --gradient-secondary: linear-gradient(135deg, hsl(211 85% 35%), hsl(211 85% 55%));
+    --gradient-hero: linear-gradient(135deg, hsl(35 76% 60%) 0%, hsl(42 80% 70%) 50%, hsl(211 85% 35%) 100%);
     
     /* Subtle background gradient */
-    --gradient-bg: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(45 97% 98%) 100%);
+    --gradient-bg: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(35 76% 98%) 100%);
     
     /* Elegant shadows with primary color */
-    --shadow-elegant: 0 10px 30px -10px hsl(45 97% 54% / 0.3);
-    --shadow-glow: 0 0 40px hsl(52 100% 70% / 0.4);
+    --shadow-elegant: 0 10px 30px -10px hsl(35 76% 60% / 0.3);
+    --shadow-glow: 0 0 40px hsl(42 80% 70% / 0.4);
     
     /* Smooth transitions */
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -84,17 +84,17 @@ All colors MUST be HSL.
     --popover: 222.2 84% 4.9%;
     --popover-foreground: 210 40% 98%;
 
-    --primary: 52 100% 70%;
+    --primary: 42 80% 70%;
     --primary-foreground: 222.2 84% 4.9%;
-    --primary-glow: 45 97% 54%;
+    --primary-glow: 35 76% 60%;
 
-    --secondary: 200 100% 70%;
+    --secondary: 211 85% 55%;
     --secondary-foreground: 222.2 84% 4.9%;
 
     --muted: 217.2 32.6% 17.5%;
     --muted-foreground: 215 20.2% 65.1%;
 
-    --accent: 220 91% 54%;
+    --accent: 211 85% 35%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 62.8% 30.6%;
@@ -102,15 +102,15 @@ All colors MUST be HSL.
 
     --border: 217.2 32.6% 17.5%;
     --input: 217.2 32.6% 17.5%;
-    --ring: 52 100% 70%;
+    --ring: 42 80% 70%;
 
     /* Dark mode gradients */
-    --gradient-primary: linear-gradient(135deg, hsl(52 100% 70%), hsl(45 97% 54%));
-    --gradient-secondary: linear-gradient(135deg, hsl(200 100% 70%), hsl(220 91% 54%));
-    --gradient-hero: linear-gradient(135deg, hsl(52 100% 70%) 0%, hsl(45 97% 54%) 50%, hsl(200 100% 70%) 100%);
-    --gradient-bg: linear-gradient(180deg, hsl(222.2 84% 4.9%) 0%, hsl(45 97% 8%) 100%);
-    --shadow-elegant: 0 10px 30px -10px hsl(52 100% 70% / 0.3);
-    --shadow-glow: 0 0 40px hsl(45 97% 54% / 0.4);
+    --gradient-primary: linear-gradient(135deg, hsl(42 80% 70%), hsl(35 76% 60%));
+    --gradient-secondary: linear-gradient(135deg, hsl(211 85% 55%), hsl(211 85% 35%));
+    --gradient-hero: linear-gradient(135deg, hsl(42 80% 70%) 0%, hsl(35 76% 60%) 50%, hsl(211 85% 55%) 100%);
+    --gradient-bg: linear-gradient(180deg, hsl(222.2 84% 4.9%) 0%, hsl(35 76% 8%) 100%);
+    --shadow-elegant: 0 10px 30px -10px hsl(42 80% 70% / 0.3);
+    --shadow-glow: 0 0 40px hsl(35 76% 60% / 0.4);
     --sidebar-background: 240 5.9% 10%;
     --sidebar-foreground: 240 4.8% 95.9%;
     --sidebar-primary: 224.3 76.3% 48%;
