@@ -39,7 +39,7 @@ const HomePage = ({ onNavigate }: HomePageProps) => {
       {/* Header */}
       <div className="bg-gradient-primary p-6 text-white">
         <h1 className="text-3xl font-bold mb-2">CONNECT</h1>
-        <p className="text-white/90">Empowering Rural Women</p>
+        <p className="text-white/90">Empowering Women</p>
       </div>
 
       {/* Welcome Section */}

@@ -39,11 +39,6 @@ const SplashScreen = ({ onComplete }: SplashScreenProps) => {
           CONNECT
         </h1>
         
-        {/* Tagline */}
-        <p className="text-xl text-white/90 font-medium max-w-md mx-auto leading-relaxed">
-          Empowering Women Everywhere
-        </p>
-        
         {/* Loading animation */}
         <div className="mt-8 flex justify-center">
           <div className="flex space-x-2">
