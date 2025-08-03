@@ -41,7 +41,7 @@ const SplashScreen = ({ onComplete }: SplashScreenProps) => {
         
         {/* Tagline */}
         <p className="text-xl text-white/90 font-medium max-w-md mx-auto leading-relaxed">
-          Empowering Rural Women
+          Empowering Women Everywhere
         </p>
         
         {/* Loading animation */}
