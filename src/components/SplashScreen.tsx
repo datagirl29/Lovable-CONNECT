@@ -27,9 +27,9 @@ const SplashScreen = ({ onComplete }: SplashScreenProps) => {
         {/* Hero Image */}
         <div className="relative mb-8">
           <img 
-            src={heroImage} 
-            alt="Empowered Woman" 
-            className="w-48 h-64 object-cover mx-auto rounded-2xl shadow-glow"
+            src="/lovable-uploads/08159533-8b42-4b07-a46f-36e905e88d51.png" 
+            alt="Diverse Team" 
+            className="w-80 h-48 object-cover mx-auto rounded-2xl shadow-glow"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent rounded-2xl" />
         </div>
