@@ -1,5 +1,3 @@
-# Welcome to your Lovable project
-
 ## CONNECT – Prototype for Women’s Empowerment  
 
 👉 **Project Link**: https://lovable.dev/projects/30f6c034-3261-4a2c-9d00-1e6dc08c5640
