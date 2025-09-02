@@ -3,10 +3,10 @@
 
 👉 **Project Link**: https://lovable.dev/projects/30f6c034-3261-4a2c-9d00-1e6dc08c5640
 
-## 🔍 Problem Statement  
+## Problem Statement  
 Under **SDG 5 (Gender Equality)** many rural and underrepresented women still face barriers to **education, digital literacy, and awareness of their rights and opportunities**. With **1 in 5 people excluded under international human rights law**, the core issue lies in the lack of **inclusive knowledge access and empowerment platforms** tailored for these communities.  
 
-## 🎯 Solution  
+## Solution  
 For the hackathon, I built a prototype app called **CONNECT** using **[Lovable](https://lovable.dev/)**. The goal was to empower rural women (ages 15–30) and marginalized communities by creating an **inclusive, accessible digital platform**.  
 
 The app provides three key features:  
@@ -28,14 +28,14 @@ The app provides three key features:
 
 ---
 
-## 🛠 Tech & Tools  
+## Tech & Tools  
 - **Prototyped on:** [Lovable](https://lovable.dev/)  
 - **Built for:** *GNEC Hackathon 2025 Spring* (https://gnec-hackathon-2025-spring.devpost.com/?_gl=1*13bn7vz*_gcl_au*NjU3OTU3NTg3LjE3NTY4MzIwOTI.*_ga*NDUwMDI1Mzk0LjE3NTY4MzIwOTI.*_ga_0YHJK3Y10M*czE3NTY4MzIwOTIkbzEkZzEkdDE3NTY4MzIxNTQkajU5JGwwJGgw)
 - **Focus:** Inclusive design, accessibility-first, rapid prototyping  
 
 ---
 
-## 📦 What Technologies Are Used for This Project?  
+## What Technologies Are Used for This Project?  
 This project is built with:  
 - **Vite**  
 - **TypeScript**  
@@ -45,7 +45,7 @@ This project is built with:
 
 ---
 
-## 🌍 Impact & Reflection  
+## Impact & Reflection  
 Prototyping **CONNECT** on Lovable helped me see how **inclusive design and low-code tools** can quickly bring real-world ideas to life. The hackathon process reinforced that **technology can be a powerful enabler of empowerment** when tailored to underserved communities.  
 
 ---
