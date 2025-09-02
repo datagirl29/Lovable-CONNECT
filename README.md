@@ -1,4 +1,5 @@
 ## CONNECT – Prototype for Women’s Empowerment  
+<img width="2504" height="1890" alt="Screenshot 2025-08-03 at 1 05 22 AM" src="https://github.com/user-attachments/assets/cedfcb42-9e6b-4f0a-842a-3b242867994f" />
 
 👉 **Project Link**: https://lovable.dev/projects/30f6c034-3261-4a2c-9d00-1e6dc08c5640
 
@@ -29,7 +30,7 @@ The app provides three key features:
 
 ## 🛠 Tech & Tools  
 - **Prototyped on:** [Lovable](https://lovable.dev/)  
-- **Built for:** *[Hackathon Name]* (replace with actual name)  
+- **Built for:** *GNEC Hackathon 2025 Spring* (https://gnec-hackathon-2025-spring.devpost.com/?_gl=1*13bn7vz*_gcl_au*NjU3OTU3NTg3LjE3NTY4MzIwOTI.*_ga*NDUwMDI1Mzk0LjE3NTY4MzIwOTI.*_ga_0YHJK3Y10M*czE3NTY4MzIwOTIkbzEkZzEkdDE3NTY4MzIxNTQkajU5JGwwJGgw)
 - **Focus:** Inclusive design, accessibility-first, rapid prototyping  
 
 ---
